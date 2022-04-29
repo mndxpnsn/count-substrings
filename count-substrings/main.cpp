@@ -2,7 +2,7 @@
 //  main.cpp
 //  count-substrings
 //
-//  Created by Derek Harrison on 29/04/2022.
+//  Created by mndx on 29/04/2022.
 //
 
 #include <iostream>
